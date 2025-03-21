@@ -53,6 +53,11 @@ Full documentation is located in [`project-docs/`](./project-docs):
 ## 🛣️ Road Ahead
 Check [`roadmap.md`](./project-docs/docs/roadmap.md) for what's next!
 
+## 🤝 Contributing
+
+We welcome contributions!  
+Check out [CONTRIBUTING.md](CONTRIBUTING.md) for guidelines on how to help.
+
 ---
 
 Made with 🧠 and ❤️ by Vladimir & Алексей
