@@ -31,7 +31,7 @@ App runs on: `http://localhost:5173`
 Make sure both servers are running simultaneously.
 
 ## 📖 Documentation
-Full documentation is located in [`project-docs/`](./project-docs):
+Full documentation is located in [`project-docs/`](./docs):
 
 - `vision.md` — purpose, philosophy, audience
 - `architecture.md` — full-stack architecture
@@ -51,7 +51,7 @@ Full documentation is located in [`project-docs/`](./project-docs):
 - User-specific boards
 
 ## 🛣️ Road Ahead
-Check [`roadmap.md`](./project-docs/docs/roadmap.md) for what's next!
+Check [`roadmap.md`](./docs/roadmap.md) for what's next!
 
 ## 🤝 Contributing
 
