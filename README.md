@@ -8,7 +8,7 @@ Welcome to the monorepo of **Nodiki.com** — a platform for visual thinking, st
 nodiki/
 ├── backend/           # Spring Boot REST API (Java)
 ├── frontend/          # React + TypeScript + ReactFlow
-├── project-docs/      # Documentation for architecture, planning, vision
+├── docs/              # Documentation for architecture, planning, vision
 ```
 
 ## 🚀 Getting Started
@@ -31,7 +31,7 @@ App runs on: `http://localhost:5173`
 Make sure both servers are running simultaneously.
 
 ## 📖 Documentation
-Full documentation is located in [`project-docs/`](./docs):
+Full documentation is located in [`docs/`](./docs):
 
 - `vision.md` — purpose, philosophy, audience
 - `architecture.md` — full-stack architecture
